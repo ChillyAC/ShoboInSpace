@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d823502540b99a84c9218ac22fbb6c40
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coolFont: {fileID: 12800000, guid: 9333025804e164943a9cd55e2c1c656a, type: 3}
+  - otherFont: {fileID: 12800000, guid: e57726b482a6c9f42a192604afb53d70, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

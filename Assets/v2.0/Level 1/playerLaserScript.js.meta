@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1bfd38b8d469a22439e3feb50ade208a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laserBeamProjectile: {fileID: 100000, guid: d204a77a6ac59994ba11331b04f32fe3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
